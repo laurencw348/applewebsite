@@ -16,53 +16,90 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site. Remember, you may not be the audience.
 
-TODO
-
+The first intended audience of my site will be Cornell University students who have a car in Ithaca. This audience is appropriate for my site because college students with a car would easily be able to attend local events and festivals, and may therefore be likely to be interested in the Ithaca Apple Festival. My second intended audience would be tourists and visitors who will be in the Ithaca area during the time of the festival. This audience is appropriate for my site because while visiting, tourists may be very interested in attending activities in Ithaca, and may want more information about the Ithaca Harvest festival before deciding it is worthwile to visit.
 
 ### Semi-Structured Interview Questions (Milestone 1)
 > Plan your semi-structured interview which you'll use to identify the needs of your users. You are required to have a minimum of 4 questions.
 
-1. TODO
-2. TODO
-3. TODO
-4. TODO
+1. Think back to last time you attended a festival or event. Walk me through how you gathered information out about the event.
+2. Why did you decide to attend the event?
+3. What is the importance of parking information to you for attending a festival or event?
+4. Please explain any problems or obstacles you encountered while planning your visit to an event you've attended in the past. How did you overcomes these obstacles?
+5. Explain how you spent your time at the event.
+
 
 
 ### Interview Notes (Milestone 1)
 > Interview at least 2 people from your audience. Take notes and include those notes here. Make sure to include a brief description of each interviewee.
 
-Interviewee 1:
+**Interviewee 1:Student at Binghamton University who is visiting his girlfriend for the week. Interviewee has been to Ithaca quite a few times, but has never attended the Apple Festival before.**
 
-TODO: description
-TODO: notes
+*Notes:*
+- Last festival was Ultra Music Festival in Singapore, mostly heard about information through word of mouth (friends), used Instagram page to look at photos
+- Used the website to look for information on ticket prices and how to book tickets
+- Also used website to see the lineup of artists
+- Decided to attend because friends were going, lineup of artists was really good and it looked like there was a lot of fun attractions there
+- Parking information not important because interviewee doesn't drive, took a taxi to the event
+- Problems encountered include not being able to find the front entrance of the festival, ended up looking around for at least 30 minutes before finding the entrance
+- Found entrance by using the map on the Ultra website (on mobile device), but the map wasn't very clear which is why it still took so long to find
+- Wasn't told that water would be so expensive- that was annoying, wouldve liked to know the price of food and drink before attending. Ended up buying water anyway, just had to pay the price
+- Interviewee was anticipating that their favorite band would be performing at eleven o'clock. They went to the stage at the time of the performance, but there ended up being a 45 minute delay. While waiting for the band, interviewee and friends checked the website to see if there was an announcement about a delay or cancellation but there was nothing on the website.
+- Spent time: getting food, listening to the musical performances, talking to friends/socializing, resting
 
-Interviewee 2:
+**Interviewee 2: Cornell University student (Junior) who has her car and drives frequently to places in Ithaca area.**
 
-TODO: description
-TODO: notes
+*Notes:*
+- Festival attended was the Ithaca Winter festival
+- Heard information through friends and posters, decided to attend because it looked cool on the poster pictures. Wishes she could have had more information before attending because the festival turned out to be quite dissapointing because there wasn't actually much to do
+- Parking information is important because interviewee has a car and always drives to local events
+- Biggest problem encountered was inability to find parking information online, intervieee spent quite a bit of time trying to find a carpark in the area. Tried to look for a phone number to contact, and was unable to find one. Overcame this problem by asking a friend to get out of the car and ask one of the vendors for the best place to park
+- Interviewee recalls another food event in her hometown (Chevy Chase, MD) where she got lost on the way to a festival because there was no directions on the website or posters
+- Spent time: getting food and drinks, socializing, going to the shops in downtown
 
 
 ### Needs (Milestone 1)
 > Analyze your audience's needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 
-Need/Want 1: TODO: [Brief Title]
-- **Needs and Wants** _What does your client and audience need and want?_
-  - TODO
-- **Design Ideas and Choices** _How will you meet those needs and wants?_
-  - TODO
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO
-Need/Want 2: TODO
-TODO
-Need/Want 3: TODO
-TODO
-etc.
+**Need/Want 1: Items Sold With Prices**
+- From the interviews, I learned that my people spend the most time at festivals on purchasing good and drinks. Therefore, they may want to know about what items will be sold at the festival beforehand and the price of the items
+- On the site, I will include lists the items sold at Apple Fest, including food, drinks and crafts, and specify the prices for each items.
+- I anticipate that it might be difficult to gather this information at the moment
+**Need/Want 2: Detailed Parking Information**
+- Audiences with a car need to know where to park and the cost of parking, if applicable. They also need information on what to do if they need assistance with parking, or what to do if the parking spaces are all full
+- On the website I need to include a map of where all the available parking spaces are as well as contact information for those who need assistance with parking
+**Need/Want 3: Detailed Schedule of Performances with Times**
+- Audience want to see a detailed list of the performances of the festival and the exact time that each performance will take place
+- I will create a table schedule that specifies each artists and exactly what time they will be performing. I will also need to include the opening hours of the festival so users know which hours they can visit
+**Need/Want 4: Announcements/Alerts**
+- Audiences want to be informed about any delays or alerts on the day that they attend the festival
+- I will therefore add an alerts/announcements panel on the front page of the website, so that visitors can check the front page and see any urgent alerts on the day they attend the festival
+**Need/Want 5: Detailed Map of the Festival**
+- Audience need to see where each vendor/stall will be, so that on the day of the festival it is easier to navigate the space
+- I will therefore include a detailed and colorcoded map on the website that shows audiences exactly where each stall and performance will be. The map should also include the location of toilets, parking, entrances and exists.
+- From the interviews I also learned that audiences spend a lot of time socialising while eating at festivals, so including great eating spots could also be helpful
+- I anticipate that it might be difficult to gather this information at the moment
+**Need/Want 6: Contact Information**
+- Audiences need to know who to contact if they have questions about planning their visit or have questions while attending the festival
+- On the website, I should include a phone number and email address that audiences can use to immediately contact festival organisers.
+**Need/Want 7: Photographs**
+- From the user interviews, I learend that audience like to see photographs of events/festival before attending to get a sense of what the festival vibe is like.
+- On the website, I will include photos from previous years of the festival, most likely a few photographs on each page. I will try to find pictures that make the festival look the liviest, so audiences are enticed to attend the festival.
+**Need/Want 8: What makes Apple Fest unique**
+- From the user interviews, I learned that audiences want to read about what makes an event special/interesting before deciding whether to attend the event
+- Therefore, I should include background information on the history of apple fest, the performance artists and what makes the products sold unique
+- I could also include statistics on how many people have attended in the past to show audiences how popular the festival is
+**Need/Want 10: Directions**
+- From the interviews, I learned that audiences who drive may need driving directions so they don't get lost on the way to the festival.
+- I will therefore include directions on the best route to get the the festival to avoid traffic
+**Need/Want 11: Things to Do**
+- From the interviews, I leanred that before deciding on whether to attend an event, audiences want to know what activities they can do at the festivals
+- I will include detailed information on the games and activities that people can do at the festival, and what the most popular attractions are (besides food)
 
 
 ### Initial Design (Milestone 1)
 > Document your design process. Show us your card sorting. Describe your theme. Show us sketches of your site (mobile and desktop versions). etc. You should show us how your came up with your design and how your iterated on that design; show us the evolution of your design.
 
-TODO
+Card Sort 1.
 
 
 ## Design
