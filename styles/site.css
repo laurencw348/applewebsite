@@ -1,0 +1,150 @@
+@font-face {
+  font-family:sans-serif;
+  font-weight: 450;
+}
+
+h1,h2 {
+  font-family: Courier, sans-serif;
+}
+
+#header1 {
+  background:  url(../images/apples.jpg) center center;
+  background-size: cover;
+  height: 25em;
+}
+
+#header2 {
+  background:  url(../images/fire.jpg) center center;
+  background-size: cover;
+  height: 25em;
+}
+
+nav {
+  font-family: verdana, sans-serif;
+  background-color:#528e58
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+h2{
+  text-align: center;
+}
+nav ul {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+}
+
+nav ul li {
+  text-transform: uppercase;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #ffffff
+}
+
+
+.page-content {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.alerts{
+  border: solid 6px red;
+  text-align: center;
+  font-size:20px;
+}
+
+p{
+  padding: 20px;
+}
+
+.alerts p {
+  padding: 5px;
+}
+
+
+.applefestcontent{
+
+}
+
+aside {
+  background-color: #c4e8bc;
+  flex-grow: 1;
+  min-width: 240px;
+  text-align: center;
+}
+
+table {
+  width: 900px;
+  height: 200px;
+}
+
+.schedule{
+  text-align: center;
+}
+th, td {
+  padding: 7px 10px 10px 10px;
+  text-align:center;}
+
+th {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 90%;
+  border-bottom: 2px solid #111111;
+  text-align: center;}
+
+.activity1{
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 10px;
+  border-bottom: dashed 4px green;
+}
+
+.activity2{
+  display: flex;
+  padding-bottom: 10px;
+  border-bottom: dashed 4px green;
+}
+
+img.left-align {
+  float: left;
+  margin-right: 10px;
+  width: 25%;
+  height: 100%;}
+
+img.right-align {
+  float: right;
+  margin-left: 10px;
+  width: 25%;
+  height: 100%;}
+
+/* mobile */
+@media (max-width: 600px) {
+  .page-middle {
+    flex-flow: column;
+  }
+
+}
+
+/* tablet */
+@media (min-width: 600px) and (max-width: 900px) {
+  .page-middle {
+    flex-flow: column;
+    padding: 40px;
+    margin: 40px;
+
+  }
+
+}
