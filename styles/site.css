@@ -19,6 +19,12 @@ h1,h2 {
   height: 25em;
 }
 
+#header3 {
+  background:  url(../images/thingstobuy.jpg) center center;
+  background-size: cover;
+  height: 25em;
+}
+
 nav {
   font-family: verdana, sans-serif;
   background-color:#528e58
@@ -26,11 +32,12 @@ nav {
 
 h1{
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
   text-transform: uppercase;
+  color:#06570e
 }
 
-h2{
+h2, h3{
   text-align: center;
 }
 nav ul {
@@ -82,7 +89,7 @@ p{
 aside {
   background-color: #c4e8bc;
   flex-grow: 1;
-  min-width: 240px;
+  width: 400px;
   text-align: center;
 }
 
@@ -118,33 +125,27 @@ th {
   border-bottom: dashed 4px green;
 }
 
-img.left-align {
-  float: left;
-  margin-right: 10px;
-  width: 25%;
-  height: 100%;}
-
-img.right-align {
-  float: right;
-  margin-left: 10px;
-  width: 25%;
-  height: 100%;}
-
-/* mobile */
-@media (max-width: 600px) {
-  .page-middle {
-    flex-flow: column;
+.itemssold {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  margin-top: 20px;
+  margin: 2px;
+  margin-bottom: 2%;
   }
 
-}
-
-/* tablet */
-@media (min-width: 600px) and (max-width: 900px) {
-  .page-middle {
-    flex-flow: column;
-    padding: 40px;
-    margin: 40px;
-
-  }
-
-}
+figure {
+  display: block;
+  width: 202px;
+  height: 170px;
+  background-color: #e7e3d8;
+  padding: 5px;
+  text-align: center;}
+figure img {
+  width: 200px;
+  height: 150px;
+  border: 1px solid #d6d6d6;}
+figcaption {
+  text-align: center;
+  font-weight: bold;
+  color: #02441c;}
