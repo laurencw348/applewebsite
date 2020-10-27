@@ -25,6 +25,8 @@ h1,h2 {
   height: 25em;
 }
 
+#header4{}
+
 nav {
   font-family: verdana, sans-serif;
   background-color:#528e58
@@ -69,12 +71,14 @@ nav ul li a {
 
 .alerts{
   border: solid 6px red;
+  margin: 40px;
   text-align: center;
   font-size:20px;
 }
 
 p{
   padding: 20px;
+  font-size:20px;
 }
 
 .alerts p {
@@ -82,20 +86,18 @@ p{
 }
 
 
-.applefestcontent{
-
-}
-
 aside {
   background-color: #c4e8bc;
-  flex-grow: 1;
   width: 400px;
+  min-width: 300px;
   text-align: center;
 }
 
 table {
   width: 900px;
   height: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .schedule{
@@ -130,14 +132,15 @@ th {
   flex-direction: row;
   flex-flow: wrap;
   margin-top: 20px;
-  margin: 2px;
   margin-bottom: 2%;
+  align-items: center;
+  justify-content: center;
   }
 
 figure {
-  display: block;
+  align-self: auto;
   width: 202px;
-  height: 170px;
+  height: 180px;
   background-color: #e7e3d8;
   padding: 5px;
   text-align: center;}
@@ -149,3 +152,23 @@ figcaption {
   text-align: center;
   font-weight: bold;
   color: #02441c;}
+
+img.left-align {
+    float: left;
+    margin-right: 10px;
+    width: 25%;
+    height: 100%;}
+
+img.right-align {
+    float: right;
+    width: 25%;
+    height: 100%;}
+
+footer {
+  color: #ffffff;
+  background-color: #1b6334;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: .8em;
+  padding: 1em;
+    }
