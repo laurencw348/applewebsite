@@ -106,13 +106,17 @@ p a {
 
 
 aside {
+  flex-grow: 1;
   background-color: #c4e8bc;
-  width: 400px;
   min-width: 300px;
   text-align: center;
 }
 
-table {
+#asidebuy{
+  max-width: 300px;
+}
+
+.schedule1 table {
   width: 900px;
   height: 200px;
   margin-left: auto;
@@ -121,7 +125,15 @@ table {
 
 }
 
-.schedule{
+.schedule2 table {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  justify-content: center;
+}
+
+.schedule1{
   text-align: center;
 }
 th, td {
@@ -178,12 +190,12 @@ figcaption {
 img.left-align {
     float: left;
     margin-right: 10px;
-    width: 25%;
+    width: 600px;
     height: 100%;}
 
 img.right-align {
     float: right;
-    width: 25%;
+    width: 300px;
     height: 100%;}
 
 .directions, .parking{
@@ -207,6 +219,48 @@ footer {
   font-size: .8em;
   padding: 1em;
     }
-p footer {
-  size: 100px;
+
+.schedule2 {
+  display:none;
+}
+/* mobile */
+@media (max-width: 600px) {
+  .page-content {
+    flex-flow: column;
+  }
+
+  aside {
+  width:100%;
+  }
+  .activity1{
+    flex-flow: column;
+  }
+
+
+  .activity2{
+    flex-flow: column;
+  }
+  .schedule1 {
+    display: none;
+  }
+
+  .schedule2{
+    display: block;
+  }
+
+  aside{
+    max-width: none;
+  }
+
+  #asidebuy{
+    width: 100%;
+    max-width: none;
+  }
+
+  .left-align img {
+  width: 100%;
+  }
+
+  .directions, .parking{
+    margin: 10px;}
 }

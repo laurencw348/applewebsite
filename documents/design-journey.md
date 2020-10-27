@@ -151,7 +151,7 @@ For the mobile version, I laid out each item one by one so users can easily see 
 Sketch of the 'Directions and Parking' page (desktop version 1). Since this page includes both directions and parking information, I will have another navigation bar below the main nav bar, where users can click on the links to be directed to the portion of the page they are looking for.
 
 ![Directions and Parking Mobile](parking-mobile.jpg)
-Sketch of 'Directions and Parking' page (mobile version).In the mobile version, the two sections are laid out one by one, so that it's easier to read each one. Just like the desktop version, users can click on the links at the top of the page to be directed to the section they wish to look at.
+Sketch of 'Directions and Parking' page (mobile version). In the mobile version, the two sections are laid out one by one, so that it's easier to read each one. Just like the desktop version, users can click on the links at the top of the page to be directed to the section they wish to look at.
 
 ## Design
 
@@ -167,8 +167,7 @@ TODO
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the needs of your users?
-
-TODO
+My content organization 
 
 
 ### Responsive Design Considerations (Milestone 2)
