@@ -185,18 +185,21 @@ For the site's design/layout, I tried to make it as appropriate for both my targ
 ### Responsive Design Considerations (Milestone 2)
 > Explain how you adapted your design to be responsive (support both mobile and desktop versions).
 
-To ensure my site supports both mobile and desktop versions, I used media queries. More spefically, for the pages with a sidebar, I used media queries to shift the sidebar to the bottom or top of the page when the user is on a mobile device in order to make better utilization of the horizontal space. On the 'thigns to do' page, I also ensured that on mobile versions, the image of each activity is positioned on top of the description of the activity, so the text is still easily readable on mobile versions. I also inverted the columns and rows of the table to ensure that mobile users don't have to use horizontal scroll while looking at the schedule of performances. On the 'things to buy' page, I also used media queries to make it such that each item is laid out vertically, and also moved the right side bar to the top of the page. Finally, on the 'directions and parking' page, I removed the margins of the two paragraphs to make better utilization of the horizontal space. 
+To ensure my site supports both mobile and desktop versions, I used media queries. More specifically, I  More spefically, for the pages with a sidebar, I used media queries to shift the sidebar to the bottom or top of the page when the user is on a mobile device in order to make better utilization of the horizontal space. On the 'thigns to do' page, I also ensured that on mobile versions, the image of each activity is positioned on top of the description of the activity, so the text is still easily readable on mobile versions. I also inverted the columns and rows of the table to ensure that mobile users don't have to use horizontal scroll while looking at the schedule of performances. On the 'things to buy' page, I also used media queries to make it such that each item is laid out vertically, and also moved the right side bar to the top of the page. Finally, on the 'directions and parking' page, I removed the margins of the two paragraphs to make better utilization of the horizontal space.
 
 ### Coded Draft Desktop Website (Milestone 2)
 > Include screenshots of the draft version of your desktop design AND your mobile design. Include a screenshot for every page. If you're using Firefox, click the 3 dot button in the address bar and select "Take a Screenshot."
 
 **Desktop Screenshots:**
-TODO
-
+![Home Desktop](homescreenshot.jpg)
+![Things to Do Desktop](thingstodoscreenshot.jpg)
+![Things to Buy Desktop](buyscreenshot.jpg)
+![Directions and Parking Desktop](directionsscreenshot.jpg)
 **Mobile Screenshots:**
-TODO
-
-
+![Home Mobile](homem.png)
+![Things to Do Mobile](tobuym.png)
+![Things to Buy Mobile](tobuym.png)
+![Directions and Parking Mobile](directionsm.png)
 ## User Testing (Round 1)
 
 ### User Testing Plan (Milestone 3)

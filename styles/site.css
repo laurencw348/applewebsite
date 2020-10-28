@@ -227,7 +227,7 @@ footer {
   display:none;
 }
 /* mobile */
-@media (max-width: 600px) {
+@media (max-width: 850px) {
   .page-content {
     flex-flow: column;
   }
@@ -251,7 +251,6 @@ footer {
   aside{
     max-width: none;
     height: 100%;
-    position: absolute;
   }
 
   #asidebuy{
