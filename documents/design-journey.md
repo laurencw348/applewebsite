@@ -159,12 +159,16 @@ Sketch of 'Directions and Parking' page (mobile version). In the mobile version,
 > Include the final sketches for each of your pages.
 
 **Desktop Design:**
-TODO
+![Desktop 1](desktop1.jpg)
+![Desktop2](desktop2.jpg)
+![Desktop3](desktop3.jpg)
+![Desktop4](desktop4.jpg)
 
 **Mobile Design:**
-TODO
-
-
+![Mobile 1](mobile1.jpg)
+![Mobile2](mobile2.jpg)
+![Mobile3](mobile3.jpg)
+![Mobile4](mobile4.jpg)
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the needs of your users?
 My final navigation is a navigation bar at the top of the page underneath the header image. I made the background color is a light green to convey ideas of nature and health, which will appeal to my audience of healthy individuals.   By placing the navigation bar at the top of the page underneath the heading image, it will be easy for my audience to quickly navigate between the different pages and find the information they need about the festival. The titles of the various pages tells my audiences exactly what is featured on that page- nothing more and nothing less.
@@ -180,12 +184,12 @@ On the 'Things to Buy' page, I have included images and prices of some of the it
 
 Finally, the last page includes both directions and parking information, which is appripriate for my target audience because many college students have a car in Ithaca, so info about the best way to get to the festival and where to park will be very useful for them. I also included other transportation options (the TCAT and the bus), because visitors/tourists who don't have a car may need to know other ways of getting to the festival.
 
-For the site's design/layout, I tried to make it as appropriate for both my target audiences as possible. By making the colorscheme green and red, I am appealing to the audience of health concious individuals as these colors convey ideas of health, nature, and greenery.
+For the site's design/layout, my overall goal was to make sure that healthy eating individuals felt at 'home', and tourists felt excited by the opportunity to visit the unique festival. By making the colorscheme green and red, I am appealing to the audience of health concious individuals as these colors convey ideas of health, nature, and greenery. On each page, I also included a different large header image, such that it is the first thing that users see when they visit each page. This would appeal greatly to tourists, as they can see how beautiful Ithaca is and how fun the Apple Festival would be. This would also be especially appealing since they may not have heard much about Apple Fest or Ithaca before. For the font, I used more fun and somewhat childish fonts because I want to convey the idea that the festival is really welcoming and enjoyable.
 
 ### Responsive Design Considerations (Milestone 2)
 > Explain how you adapted your design to be responsive (support both mobile and desktop versions).
 
-To ensure my site supports both mobile and desktop versions, I used media queries. More specifically, I  More spefically, for the pages with a sidebar, I used media queries to shift the sidebar to the bottom or top of the page when the user is on a mobile device in order to make better utilization of the horizontal space. On the 'thigns to do' page, I also ensured that on mobile versions, the image of each activity is positioned on top of the description of the activity, so the text is still easily readable on mobile versions. I also inverted the columns and rows of the table to ensure that mobile users don't have to use horizontal scroll while looking at the schedule of performances. On the 'things to buy' page, I also used media queries to make it such that each item is laid out vertically, and also moved the right side bar to the top of the page. Finally, on the 'directions and parking' page, I removed the margins of the two paragraphs to make better utilization of the horizontal space.
+To ensure my site supports both mobile and desktop versions, I used media queries. For my queries, Since most mobile devices often have screen sizes that are less than 600px wide, I set the maximum width on my media queries to 600px. More specifically, for the pages with a sidebar, I used media queries to shift the sidebar to the bottom or top of the page when the user is on a mobile device in order to make better utilization of the horizontal space. On the 'thigns to do' page, I also ensured that on mobile versions, the image of each activity is positioned on top of the description of the activity, so the text is still easily readable on mobile versions. I also inverted the columns and rows of the table to ensure that mobile users don't have to use horizontal scroll while looking at the schedule of performances. On the 'things to buy' page, I also used media queries to make it such that each item is laid out vertically, and also moved the right side bar to the top of the page. Finally, on the 'directions and parking' page, I removed the margins of the two paragraphs to make better utilization of the horizontal space.
 
 ### Coded Draft Desktop Website (Milestone 2)
 > Include screenshots of the draft version of your desktop design AND your mobile design. Include a screenshot for every page. If you're using Firefox, click the 3 dot button in the address bar and select "Take a Screenshot."
@@ -197,7 +201,8 @@ To ensure my site supports both mobile and desktop versions, I used media querie
 ![Directions and Parking Desktop](directionsscreenshot.jpg)
 **Mobile Screenshots:**
 ![Home Mobile](homem.png)
-![Things to Do Mobile](tobuym.png)
+![Things to Do Mobile](todom
+.png)
 ![Things to Buy Mobile](tobuym.png)
 ![Directions and Parking Mobile](directionsm.png)
 ## User Testing (Round 1)
