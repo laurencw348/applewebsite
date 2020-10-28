@@ -167,14 +167,25 @@ TODO
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the needs of your users?
-My content organization 
+My final navigation is a navigation bar at the top of the page underneath the header image. I made the background color is a light green to convey ideas of nature and health, which will appeal to my audience of healthy individuals.   By placing the navigation bar at the top of the page underneath the heading image, it will be easy for my audience to quickly navigate between the different pages and find the information they need about the festival. The titles of the various pages tells my audiences exactly what is featured on that page- nothing more and nothing less.
 
+My content organisation also meets the needs of both of my target audiences.
+On each page, I have included a different large header image that shows the fun and exciting aspects of the festival. This will appeal greatly to my audience, especially those who are visitors of Ithaca, because I learned from my interviews that users want to images of the event itself in order to see whether the festival is worth attending. I also included the contact information at the bottom of every page, because my users, especially users who are visitors/tourists of Ithaca, may have several questions or concerns about the festival and may need to find the information quickly.
+
+On the home page, I decided to include the opening hours of the festival as a sidebar, because I learned from my user interviews that it is very important for them to be able to find this information quickly-especially on the day of the festival itself. My home page also includes an alert/announcements panel, so that my users can find urgent information or messages as soon as they enter my page. I learned from my user interviews that this was extremely important in order to make their visit as smooth as possible. Finally, the home page also includes information about the Ithaca, which will be useful for my audience of tourists/visitors as they may not know much about the town.
+
+On the 'Things to Do' page, I included large images and descriptions of a few of the activities offered at the festival. I also included a table of the performances, as my user interviews indicated that having a schedule will be useful in order for users to decide what time to attend the festival.
+
+On the 'Things to Buy' page, I have included images and prices of some of the items sold at the festival. I have also indicated whether the items are vegan or vegetarian, which is appropriate for my audience of healthy eating students because they may have specific dietary requirements. I included the price because my user interviews indicated that knowing how much each item will cost is useful for users so they can know how much money to bring to the festival.
+
+Finally, the last page includes both directions and parking information, which is appripriate for my target audience because many college students have a car in Ithaca, so info about the best way to get to the festival and where to park will be very useful for them. I also included other transportation options (the TCAT and the bus), because visitors/tourists who don't have a car may need to know other ways of getting to the festival.
+
+For the site's design/layout, I tried to make it as appropriate for both my target audiences as possible. By making the colorscheme green and red, I am appealing to the audience of health concious individuals as these colors convey ideas of health, nature, and greenery.
 
 ### Responsive Design Considerations (Milestone 2)
 > Explain how you adapted your design to be responsive (support both mobile and desktop versions).
 
-TODO
-
+To ensure my site supports both mobile and desktop versions, I used media queries. More spefically, for the pages with a sidebar, I used media queries to shift the sidebar to the bottom or top of the page when the user is on a mobile device in order to make better utilization of the horizontal space. On the 'thigns to do' page, I also ensured that on mobile versions, the image of each activity is positioned on top of the description of the activity, so the text is still easily readable on mobile versions. I also inverted the columns and rows of the table to ensure that mobile users don't have to use horizontal scroll while looking at the schedule of performances. On the 'things to buy' page, I also used media queries to make it such that each item is laid out vertically, and also moved the right side bar to the top of the page. Finally, on the 'directions and parking' page, I removed the margins of the two paragraphs to make better utilization of the horizontal space. 
 
 ### Coded Draft Desktop Website (Milestone 2)
 > Include screenshots of the draft version of your desktop design AND your mobile design. Include a screenshot for every page. If you're using Firefox, click the 3 dot button in the address bar and select "Take a Screenshot."
