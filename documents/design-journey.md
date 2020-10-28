@@ -169,6 +169,7 @@ Sketch of 'Directions and Parking' page (mobile version). In the mobile version,
 ![Mobile2](mobile2.jpg)
 ![Mobile3](mobile3.jpg)
 ![Mobile4](mobile4.jpg)
+
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the needs of your users?
 My final navigation is a navigation bar at the top of the page underneath the header image. I made the background color is a light green to convey ideas of nature and health, which will appeal to my audience of healthy individuals.   By placing the navigation bar at the top of the page underneath the heading image, it will be easy for my audience to quickly navigate between the different pages and find the information they need about the festival. The titles of the various pages tells my audiences exactly what is featured on that page- nothing more and nothing less.
