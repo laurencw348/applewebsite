@@ -211,11 +211,11 @@ To ensure my site supports both mobile and desktop versions, I used media querie
 ### User Testing Plan (Milestone 3)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. TODO
+1. You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.
 
-2. TODO
+2. You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.
 
-3. TODO
+3. You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements. 
 
 
 ### User 1 - Testing Notes (Milestone 3)

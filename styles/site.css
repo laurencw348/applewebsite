@@ -66,10 +66,14 @@ nav ul li a {
   text-decoration: none;
   color: #ffffff
 }
+a {
+  text-decoration: none;
+}
 
 a:hover {
   color: red;
 }
+
 
 footer p {
   padding: 0px;
@@ -181,8 +185,8 @@ th {
 
 figure {
   align-self: auto;
-  width: 260px;
-  height: 240px;
+  width: 265px;
+  height: 285px;
   background-color: #e7e3d8;
   padding: 5px;
   text-align: center;}
@@ -255,6 +259,12 @@ footer {
     height: 100%;
   }
 
+  nav ul {
+
+  }
+
+  nav ul li {
+  }
   #asidebuy{
     width: 100%;
     max-width: none;
