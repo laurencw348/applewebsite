@@ -314,7 +314,7 @@ Yes, because the user is an individual who will be visiting Itha
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
 Task 1: User asks to scroll down on the home page to the very bottom of the page. User indicates they would call the phone number immediately.
-Task 4: User asks to navigate to the home page. User stays at the top of the page for a while and asks to keep scrolling down slowly. User is slightly confused, but answers: 'Yes, I will be able to attend for a bit because is open everyday at 3pm'
+Task 4: User asks to navigate to the home page. User stays at the top of the page for a while and asks to keep scrolling down slowly. User is slightly confused, but answers: 'Yes, I will be able to attend for a bit because its open everyday at 3pm'
 Task 1: User asks to see the navigation bar, thinks for a second and asks to go to 'Things to Do'. User asks to scroll down slowly. User says 'Oh there, schedule of performances. So 12pm on Saturday right?'
 Task 3: User asks to go to the 'Things to Do' page. User says 'Yeah because I'm vegan I do have some options to eat'.
 
@@ -395,7 +395,6 @@ Yes, the user belongs to the audience because she is a Cornell student who eats 
    1. The first change I made to my design was adding a 'Contact Us' button the top of the home page. I decided to add this button because my first user interview indicated that it was not that obvious to users the the information can be found at the bottom of the page. Therefore, by adding this button, users can easily find the contact information as soon as they enter the site. This will be especially useful for when users are at the festival and are in an emergency, and need to contact someone immediately.
    2. The second change I made was moving the schedule of performances table from the bottom of the 'Things to Do' page to the top of the page. This is because in my first user test, the participant had trouble finding the table on that page. By moving it to the top of the page, users can easily find this information. I think having it at the top of the page is also important because this is probably the piece of information most useful to users, especially when they want to see what time their favorite band is performing on the day they are at the festival.
    3. The third change I made to the design of my site was making some pieces of information on the 'Things to Buy' sidebar in bold using the strong tag. I did this because I believe that the information is very important, and both of the partipants in the user tests did not read this information.
-
    4. The fourth change I made was to the mobile version of the schedule of performances table. More specifically, I made alternating rows of the table a light grey shade in order to make it easier for users to read the table and easily find  the pieces of information they need.
    5. The final change I made to the design of my site was to change the information on the sidebar of the home page. More specifically, instead of just including the opening hours, I changed it to include the exact dates and the opening hours of each date. I did this because both my user interviews indicated that user expected to find the dates on the home page.
 
