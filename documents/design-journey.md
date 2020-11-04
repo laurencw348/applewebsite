@@ -217,7 +217,7 @@ To ensure my site supports both mobile and desktop versions, I used media querie
 
 3. You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.
 
-4. You are going to visiting Ithaca for the weekend and plan to arrive on September 24th at around 4pm. Identify whether you will be able to attend the festival.
+4. You are going to visiting Ithaca for the weekend and plan to arrive on September 24th at around 3pm. Identify whether you will be able to attend the festival.
 
 
 
@@ -292,7 +292,7 @@ Yes, because the user is an individual who will be visiting Itha
 - **Re-design choices**
    - To encourage users to read the sidebar description, especially the part that tells users to contact the festival organisers if they have any dietary concerns, I will either make this part of the text bold or italisized so that it stands out to the user and they can easily see it. I will also make 'contact us' a link to the bottom of the page, so users can immediately click on this and find the contact information if they need to.
 
-**Task 4: You are going to be in Ithaca for the weekend and want to attend the Apple Festival on September 24th at around 4pm. Identify whether you will be able to attend the festival.**
+**Task 4: You are going to be in Ithaca for the weekend and want to attend the Apple Festival on September 24th at around 3pm. Identify whether you will be able to attend the festival.**
 - **Did you evaluate the desktop or mobile design?**
   -Desktop
 - **How did the user do? Did they meet your expectation?**
@@ -348,10 +348,9 @@ Yes, the user belongs to the audience because she is a Cornell student who eats 
   - Since the user immediately went to the bottom of the page, it indicates that the user assumed that the contact information could be found here. However, the user indicated that they would call the phone number instead of just going to the office which is located very closeby to the festival. I was surprised by this, as I expected that if someone lost their belongings, they would go to the office to try to find a lost and found.
 - **Re-design choices**
   - This user interview indicated that the phone number is the most important piece of contact information for users when they need to urgently speak to an organizer of the festival. Therefore, I will remove the office location from the contact information so as to make it even easier for users to quickly find this phone number.
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
 
-**Task 2: You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**  - **Did you evaluate the desktop or mobile design?**
+**Task 2: You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**
+  - **Did you evaluate the desktop or mobile design?**
     - Pick one: Mobile
   - **How did the user do? Did they meet your expectation?**
     - For this task, I expected users to navigate to the 'Things to Do' page and immediately find the schedule of performances at the bottom of the page. The user somewhat met my expectation for this, as they were able to find the table quite quickly.
@@ -368,36 +367,37 @@ Yes, the user belongs to the audience because she is a Cornell student who eats 
   - **Did you evaluate the desktop or mobile design?**
      - Mobile
   - **How did the user do? Did they meet your expectation?**
-    - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements. Therefore, the user met my expectations perfectly for this task.
-    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-      - While performing this task, the user did not encounter any difficulties.
-    - **Your reflections about the user’s performance to the task**
-      - TODO
-    - **Re-design choices**
-      - TODO
-    - **Additional Notes**
-      - TODO: Justify your decisions; additional notes.
+    - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements. Therefore, the user somewhat met my expectations  for this task.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+     - While performing this task, the user did not encounter any difficulties or issues. To user was able to immediately identify where to find the information about her the food items sold at the festival, and identified that since she is vegan, there are a few food options for her to choose from at the festival.
+  - **Your reflections about the user’s performance to the task**
+      - I was mostly happy with the way that the user performed this task. However, as with the first user test, the user did not stop to read the information in the sidebar about what to do if none of the food items meet your dietary requirements. This was somewhat surprising to me, because on the mobile version this information is displayed at the top of the page.
+  - **Re-design choices**
+    - As I mentioned upon reflecting on the other user interview, to encourage users to read the sidebar description, especially the part that tells users to contact the festival organisers if they have any dietary concerns, I will either make this part of the text bold or italisized so that it stands out to the user and they can easily see it. I will also make 'contact us' a link to the bottom of the page, so users can immediately click on this and find the contact information if they need to.
 
 
-      Task: TODO: copy task here
-      - **Did you evaluate the desktop or mobile design?**
-        - Pick one: desktop/mobile
-      - **How did the user do? Did they meet your expectation?**
-        - TODO
-      - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-        - TODO
-      - **Your reflections about the user’s performance to the task**
-        - TODO
-      - **Re-design choices**
-        - TODO
-      - **Additional Notes**
-        - TODO: Justify your decisions; additional notes.
 
+**Task 4: You are going to be in Ithaca for the weekend and want to attend the Apple Festival on September 24th at around 3pm. Identify whether you will be able to attend the festival.**
+  - **Did you evaluate the desktop or mobile design?**
+    - Mobile
+  - **How did the user do? Did they meet your expectation?**
+     - My expectation for this task was for the user to first locate the dates of the festival, which are on the 'Things to Do page'. I then expected the user to check the 'Festival Hours' information displayed on the home page, and identify that they would in fact be able to attend the festival.
+     - Therefore, the user did not meet my expectations for this task.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+     - When prompted with this task, the user first navigated to the home page. Here, the user encountered some difficulties, as she could not find the dates for which the festival was open. Instead of trying to find this information on another page, she instead simply said that she would be able to attend the festival based on the information about the festival hours found on the sidebar.
+  - **Your reflections about the user’s performance to the task**
+     - The user seemed very confused when browsing the home page. I believe this is because she expected to see the exact dates for the festival on the home page. I was still quite surprised that the user did not think to check any of the other pages for this information, and instead based her answer off of the sidebar information.
+  - **Re-design choices**
+     - Presently, the information about the festival dates can only be found on the 'Things to Do' page, under each specific activity. However, my user interviews indicated that the user expects to find this information on the home page. Therefore, I will include the opening dates of the festival on the home page, more specifically on the sidebar which currently displays the opening hours of the festival.
 
 ### Changes Based on User Testing (Milestone 3)
 > What changes did you make to your design based on user testing?
+   1. The first change I made to my design was adding a 'Contact Us' button the top of the home page. I decided to add this button because my first user interview indicated that it was not that obvious to users the the information can be found at the bottom of the page. Therefore, by adding this button, users can easily find the contact information as soon as they enter the site. This will be especially useful for when users are at the festival and are in an emergency, and need to contact someone immediately.
+   2. The second change I made was moving the schedule of performances table from the bottom of the 'Things to Do' page to the top of the page. This is because in my first user test, the participant had trouble finding the table on that page. By moving it to the top of the page, users can easily find this information. I think having it at the top of the page is also important because this is probably the piece of information most useful to users, especially when they want to see what time their favorite band is performing on the day they are at the festival.
+   3. The third change I made to the design of my site was making some pieces of information on the 'Things to Buy' sidebar in bold using the strong tag. I did this because I believe that the information is very important, and both of the partipants in the user tests did not read this information.
 
-TODO
+   4. The fourth change I made was to the mobile version of the schedule of performances table. More specifically, I made alternating rows of the table a light grey shade in order to make it easier for users to read the table and easily find  the pieces of information they need.
+   5. The final change I made to the design of my site was to change the information on the sidebar of the home page. More specifically, instead of just including the opening hours, I changed it to include the exact dates and the opening hours of each date. I did this because both my user interviews indicated that user expected to find the dates on the home page.
 
 
 ## User Testing (Round 2)

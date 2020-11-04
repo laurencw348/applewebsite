@@ -129,6 +129,23 @@ footer{
   max-width: 300px;
 }
 
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 18px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 13px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttonclass {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .schedule1 table {
   width: 900px;
   height: 200px;
@@ -144,6 +161,7 @@ footer{
   margin-right: auto;
   align-self: center;
   justify-content: center;
+  padding: 10px;
 }
 
 tr.even {
@@ -151,6 +169,11 @@ tr.even {
 
 .schedule1{
   text-align: center;
+  border-bottom: dashed 4px green;
+}
+
+.schedule2{
+  border-bottom: dashed 4px green;
 }
 th, td {
   padding: 7px 10px 10px 10px;
@@ -185,6 +208,7 @@ th {
   align-items: center;
   justify-content: center;
   }
+
 
 figure {
   align-self: auto;
