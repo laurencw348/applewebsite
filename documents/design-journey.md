@@ -225,13 +225,13 @@ To ensure my site supports both mobile and desktop versions, I used media querie
 ### User 1 - Testing Notes (Milestone 3)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-Task 1: Participant clicks on 'Directions and Parking' and carefully reads each section. Scrolls down, and identifies the phone number, saying they would call that number.
+Task 1: Participant asks to click on 'Directions and Parking' and carefully reads each section. Asks to scroll down, and identifies the phone number, saying they would call that number.
 
-Task 2: Participant clicks on the 'Things to Do' page. Participant scrolls up and down. Particpant clicks on the 'Home' page, stays on this page for a few seconds. Next user hovers over each link in the nav bar for a few seconds. Participant clicks on 'Things to Do' and reads each paragraph carefully. Participant scrolls down. Participant says 'Oh right here, I didn't see this. Saturday at 12pm.'
+Task 2: Participant clicks on the 'Things to Do' page. Participant asks to scrolls up and down a few times. Particpant clicks on the 'Home' page, stays on this page for a few seconds. Next user asks to hover over each link in the nav bar for a few seconds. Participant clicks on 'Things to Do' and reads each paragraph carefully. Participant scrolls down. Participant says 'Oh right here, I didn't see this. Saturday at 12pm.'
 
 Task 4: Participant clicks on the Home page. Participant asks 'Which date again?' and I repeat the date. Participant replies 'No', because it is going to be closed that day.
 
-Task 3: Participant clicks on the 'Things to Buy' page. Participant says 'Oh I'm gluten free so they wouldn't be selling anything I can eat.'
+Task 3: Participant clicks on the 'Things to Buy' page. Participant stays on this page for a while. Participant says 'Oh I'm gluten free so they wouldn't be selling anything I can eat.'
 
 
 ### User 1 (Milestone 3)
@@ -245,65 +245,78 @@ The user is a recent graduate of University of Southern California currently liv
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-Yes
+Yes, because the user is an individual who will be visiting Itha
 
 
 ### User 1 (Milestone 3)
 > Report the results of your user's test. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-**Task 1:You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
+**Task 1: You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
 - **Did you evaluate the desktop or mobile design?**
-  -Desktop
+  - Desktop
 - **How did the user do? Did they meet your expectation?**
   - The user performed this task well, and was able to locate the contact information very quickly which met my expectations.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- The user did not encounter any problems with locating the contact information very quickly.
+   - The user did not encounter any problems with locating the contact information very quickly.
 - **Your reflections about the user’s performance to the task**
   - The user first clicked on the 'Directions and Parking' page, indicating that they believed the contact information would be displayed on this page. This indicates that it was not obvious to the user that the contact information can be found in the footer of every page.
 - **Re-design choices**
   - To make it more obvious that the contact information can be found at the bottom of every page, I will create a buttom at the top of the page that says 'Contat Information' so that users know exactly where to find the information quickly, especially in times of emergency.
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
 
 
-  **Task 2:You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**
-  - **Did you evaluate the desktop or mobile design?**
-    -Desktop
-  - **How did the user do? Did they meet your expectation?**
-    - The user did not perform this task very well, and got stuck on trying to locate the schedule of performances. This did not meet my expectations, as I thought that it was very obvious where the schedule could be found.
-  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - Although the user first went to the 'Things to Do' page, they were not able to find the schedule of performances easily. Since they did not see that the schedule was at the bottom of the page, they tried to find it in the other pages, and spent a long time looking carefully at each paragraph on the other pages to see if the information about the performances could be found there. When the user finally found the schedule of performances, the user themselves was surprised that they did not see it when they first looked at that page.
-  - **Your reflections about the user’s performance to the task**
-  -Although I had believed that the table placed at the bottom of the page was very obvious, this user test indicates that either the table is not big enough for the user to see, or the heading that says 'Schedule of Performances' was not obvious enough for to locate. It could also possibly be that the user assumed that the schedule would be at the top of the page.
-  - **Re-design choices**
+**Task 2: You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**
+- **Did you evaluate the desktop or mobile design?**
+   - Desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user did not perform this task very well, and got stuck on trying to locate the schedule of performances. This did not meet my expectations, as I thought that it was very obvious where the schedule could be found.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+   - Although the user first went to the 'Things to Do' page, they were not able to find the schedule of performances easily. Since they did not see that the schedule was at the bottom of the page, they tried to find it in the other pages, and spent a long time looking carefully at each paragraph on the other pages to see if the information about the performances could be found there. When the user finally found the schedule of performances, the user themselves was surprised that they did not see it when they first looked at that page.
+- **Your reflections about the user’s performance to the task**
+   - Although I had believed that the table placed at the bottom of the page was very obvious, this user test indicates that either the table is not big enough for the user to see, or the heading that says 'Schedule of Performances' was not obvious enough for to locate. It could also possibly be that the user assumed that the schedule would be at the top of the page.
+- **Re-design choices**
   - To make it easier for users to locate the schedule of performances, I will move the table to the top of the 'Things to Do' page as this is probably the most important piece of information for users when looking for 'Things to Do', especially if they are at the festival and want to quickly find out when their favorite band is playing. I will also make the heading a different color so it is more visible and obvious, and might also enlarge the table and the text inside the table so users can quickly locate the performer they are looking for.
-  - **Additional Notes**
-    - TODO: Justify your decisions; additional notes.
 
-    **Task 3: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
-    - **Did you evaluate the desktop or mobile design?**
-      -Desktop
-    - **How did the user do? Did they meet your expectation?**
-      - The user performed this task quite well, and met my expectations. However, I expected the user to read the sidebar description, but the user did not, they only looked at the figures and the figure captions.
-    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+**Task 3: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
+- **Did you evaluate the desktop or mobile design?**
+  -Desktop
+- **How did the user do? Did they meet your expectation?**
+    - The user performed this task quite well, and met my expectations. However, I expected the user to read the sidebar description, but the user did not, they only looked at the figures and the figure captions.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
     - The user immediately clicked on the 'Things to Do' page, and was able to quickly locate the food items and the dietary specifications.
     - However, since the user was gluten free, the user indicated that they would not have any food to eat if they were to attend the festival.
-    - **Your reflections about the user’s performance to the task**
-    - Since the user immediately clicked on the 'Things to Do' page, it indicates that it was obvious to the user where the information about food items and the dietary specifications could be found.
-    - However, the user did not read the sidebar description, which contains important information about the dietary needs 
-    - Since the user did not read the sidebar description, it either indicates that the user did not think that this information was relevant or important, or the user was just immediately drawn to the images.
-    - **Re-design choices**
-    -To make it more obvious that the contact information can be found at the bottom of every page, I will create a buttom at the top of the page that says 'Contat Information' so that users know exactly where to find the information quickly, especially in times of emergency.
-    - **Additional Notes**
-      - TODO: Justify your decisions; additional notes.
+- **Your reflections about the user’s performance to the task**
+  - Since the user immediately clicked on the 'Things to Do' page, it indicates that it was obvious to the user where the information about food items and the dietary specifications could be found.
+  - However, the user did not read the sidebar description, which contains important information about what to do if the items do you fulfill your dietary needs
+  - Since the user did not read this sidebar description, it  indicates that the user did not think that there would be relevent or important information here.
+  - This user is gluten gree which I didn't think about as a dietary requirements before
+- **Re-design choices**
+   - To encourage users to read the sidebar description, especially the part that tells users to contact the festival organisers if they have any dietary concerns, I will either make this part of the text bold or italisized so that it stands out to the user and they can easily see it. I will also make 'contact us' a link to the bottom of the page, so users can immediately click on this and find the contact information if they need to.
 
-
+**Task 4: You are going to be in Ithaca for the weekend and want to attend the Apple Festival on September 24th at around 4pm. Identify whether you will be able to attend the festival.**
+- **Did you evaluate the desktop or mobile design?**
+  -Desktop
+- **How did the user do? Did they meet your expectation?**
+  - My expectation for this task was for the user to first locate the dates of the festival, which are on the 'Things to Do page'. I then expected the user to check the 'Festival Hours' information displayed on the home page, and identify that they would in fact be able to attend the festival.
+  -  However, the user did not check the 'Things to Do' page, and instead only looked at the festival hours. The user also assumed that since the announcement said that the Apple Cider Trail would be closed, this therefore meant that the festival wouldn't be running that day. Therefore, the user did not meet my expectation for this task.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+   - While perfoming this task, the user  only looked at the home page, and saw that there was an announcement that the Apple Cider Trail would be closed on that date.
+   - From this information, the user deduced that they would therefore not be able to attend the festival on that day.
+- **Your reflections about the user’s performance to the task**
+   - Since the user only looked at the home page while performing this task, it indicates that the user assumed that  information on the opening dates and time of the festival would only be found on this page.
+   - The user also looked at the Announcements Panel for information on whether the festival would be open. Since the panel indicated that the Cider Trail would be closed on that date, the user also assumed that the entire festival would be closed. This makes sense, since the user does not know that the Cider Trail is only one activity offered at the Harvest festival.
+- **Re-design choices**
+  - The users performance of this task highlights 2 areas of my website that need to be redesigned.
+  -  The first problem is with the announcements panel. More specifically, the first announcement that I put does not make it clear enough that only *one* attraction will be closed that day. Therefore, on the announcements panel, I will be sure to include information about how the other attractions at Apple Festival will still be open.
+  -The second problem is to do with the opening dates of the festival. Presently, this information can only be found on the 'Things to Do' page, under each specific activity. However, my user interviews indicated that the user expects to find this information on the home page. Therefore, I will include the opening dates of the festival on the home page, more specifically on the sidebar which currently displays the opening hours of the festival.
 
 
 ### User 2 - Testing Notes (Milestone 3)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1: User asks to scroll down on the home page to the very bottom of the page. User indicates they would call the phone number immediately.
+Task 4: User asks to navigate to the home page. User stays at the top of the page for a while and asks to keep scrolling down slowly. User is slightly confused, but answers: 'Yes, I will be able to attend for a bit because is open everyday at 3pm'
+Task 1: User asks to see the navigation bar, thinks for a second and asks to go to 'Things to Do'. User asks to scroll down slowly. User says 'Oh there, schedule of performances. So 12pm on Saturday right?'
+Task 3: User asks to go to the 'Things to Do' page. User says 'Yeah because I'm vegan I do have some options to eat'.
 
 
 ### User 2 (Milestone 3)
@@ -311,33 +324,74 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+This user is a Cornell University student in her Junior Year. Student is studying Biology and Society. User has been vegan for about 1 and a half years. The user has been to Apple Fest twice before.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes, the user belongs to the audience because she is a Cornell student who eats healthy.
 
 
 ### User 2 (Milestone 3)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: TODO: copy task here
+**Task 1: You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
+
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  -Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - For this task, I first expected users to be able to quickly and efficiently find the contact information at the bottom of any of the pages. I also expected users to identify that they would go to the Theatre Office space to try to speak to someone directly. Since the user automatically scrolled down to the bottom of the home page, the user met my first expectation for this task.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user immediately scrolled down to the bottom of the home page, and was able to quickly identify the phone number that they would call in case of an emergency.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Since the user immediately went to the bottom of the page, it indicates that the user assumed that the contact information could be found here. However, the user indicated that they would call the phone number instead of just going to the office which is located very closeby to the festival. I was surprised by this, as I expected that if someone lost their belongings, they would go to the office to try to find a lost and found.
 - **Re-design choices**
-  - TODO
+  - This user interview indicated that the phone number is the most important piece of contact information for users when they need to urgently speak to an organizer of the festival. Therefore, I will remove the office location from the contact information so as to make it even easier for users to quickly find this phone number.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-TODO...
+**Task 2: You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**  - **Did you evaluate the desktop or mobile design?**
+    - Pick one: Mobile
+  - **How did the user do? Did they meet your expectation?**
+    - For this task, I expected users to navigate to the 'Things to Do' page and immediately find the schedule of performances at the bottom of the page. The user somewhat met my expectation for this, as they were able to find the table quite quickly.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - The user immediately navigated to the 'Things to Do' page, indicating that it was clear to the user where the schedule could be found. However, the user did encounter some problems with trying to locate the exact band inside of the table. At first, the user specified the wrong date and time. However after a few seconds, they were able to indentify the time and date correctly.
+  - **Your reflections about the user’s performance to the task**
+    - The users performance of the task indicates two things to me. The first is that on the mobile version, it is very obvious where the table can be found since it takes up the entire width of the screen on the 'Things to Do' page. The second thing however is that since the table is quite condensed, it can be difficult to read the table and find the correct row and column for the performer.
+  - **Re-design choices**
+    - In order to make it easier for users to read the table on the mobile version, I will change the mobile table such that each alternating row is a different color.
+  - **Additional Notes**
+    - I believe that this change only needs to be made with the mobile version, since in my first user test which used the desktop version, the user was able to very quickly find the correct date and time of the performer.
+
+**Task 3: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
+  - **Did you evaluate the desktop or mobile design?**
+     - Mobile
+  - **How did the user do? Did they meet your expectation?**
+    - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements. Therefore, the user met my expectations perfectly for this task.
+    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+      - While performing this task, the user did not encounter any difficulties.
+    - **Your reflections about the user’s performance to the task**
+      - TODO
+    - **Re-design choices**
+      - TODO
+    - **Additional Notes**
+      - TODO: Justify your decisions; additional notes.
+
+
+      Task: TODO: copy task here
+      - **Did you evaluate the desktop or mobile design?**
+        - Pick one: desktop/mobile
+      - **How did the user do? Did they meet your expectation?**
+        - TODO
+      - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+        - TODO
+      - **Your reflections about the user’s performance to the task**
+        - TODO
+      - **Re-design choices**
+        - TODO
+      - **Additional Notes**
+        - TODO: Justify your decisions; additional notes.
 
 
 ### Changes Based on User Testing (Milestone 3)
