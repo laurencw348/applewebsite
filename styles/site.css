@@ -86,9 +86,10 @@ footer p {
 
 }
 
-.main{
-  padding: 100px;
-  padding:100px;
+main{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom:30px;
 }
 
 .alerts{
@@ -303,7 +304,24 @@ footer {
 
   .directions, .parking{
     margin: 10px;}
+
+
+  .alerts {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto
+  }
+  .alerts h2{
+    font-size: 20px;
+  }
+
+  main {
+    padding-left: 35px;
+    padding-right: 35px;
+  }
 }
+
+
 
 /* tablet version */
 @media (min-width: 600px) and (max-width: 900px) {
@@ -319,6 +337,20 @@ footer {
 
   .activity2{
     flex-flow: column;
+  }
+
+  .alerts {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto
+  }
+  .alerts h2{
+    font-size: 20px;
+  }
+
+  main {
+    padding-left: 35px;
+    padding-right: 35px;
   }
 
 }
