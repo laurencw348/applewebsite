@@ -257,7 +257,8 @@ footer {
 .schedule2 {
   display:none;
 }
-/* mobile */
+
+/* mobile version */
 @media (max-width: 600px) {
   html{
   font-size: 125%;}
@@ -286,12 +287,6 @@ footer {
     height: 100%;
   }
 
-  nav ul {
-
-  }
-
-  nav ul li {
-  }
   #asidebuy{
     width: 100%;
     max-width: none;
