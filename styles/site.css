@@ -258,6 +258,7 @@ footer {
   display:none;
 }
 
+
 /* mobile version */
 @media (max-width: 600px) {
   html{
@@ -270,6 +271,9 @@ footer {
     max-width: 100%;
   }
 
+  nav ul {
+    flex-direction: column;
+  }
 
   .activity2{
     flex-flow: column;
@@ -299,4 +303,22 @@ footer {
 
   .directions, .parking{
     margin: 10px;}
+}
+
+/* tablet version */
+@media (min-width: 600px) and (max-width: 900px) {
+  img.left-align {
+    max-width: 100%;
+    height: auto;
+  }
+  .activity1{
+    flex-flow: column;
+    max-width: 100%;
+  }
+
+
+  .activity2{
+    flex-flow: column;
+  }
+
 }
