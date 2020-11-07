@@ -415,11 +415,13 @@ TODO
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 > These should be the same tasks from round 1.
 
-1. TODO
+1. 1. You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.
 
-2. TODO
+2. You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.
 
-3. TODO
+3. You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.
+
+4. You are going to visiting Ithaca for the weekend and plan to arrive on September 24th at around 3pm. Identify whether you will be able to attend the festival.
 
 
 ### User 3 - Testing Notes (Final Submission)
@@ -516,3 +518,4 @@ From this experience, I learned several things about website design. The first t
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
 Having finally finished by second website, I do recognise that I have learned a lot about website design and HTML/CSS and I'm quite proud of what I have accomplished in such a short amount of time! Firstly, through this project I've realised how much faster and more efficient I am at coding in HTML and CSS. While in the first project it took me a lot more time to actually write the code, for this project, I found that I was able to write it in a much shorter amount of time. For this project, I also used much more advanced CSS than I did for my first website. For example, I used a lot more flexboxes and experimented with styling for each element a lot more than I did in the first project- and I think it paid off, because I am much happier and prouder of this website.
+While I know there is still a lot more to learn, I am proud of what I've been able to accomplish so far and can't wait to keep learning about website design and start on the next project!
