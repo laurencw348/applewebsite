@@ -245,7 +245,7 @@ The user is a recent graduate of University of Southern California currently liv
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-Yes, because the user is an individual who will be visiting Itha
+Yes, because the user is an individual who will be visiting Ithaca
 
 
 ### User 1 (Milestone 3)
@@ -414,20 +414,25 @@ TODO
 ### User Testing Plan (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 > These should be the same tasks from round 1.
+I decided to replace Task 1 from the first round of testing to a new task. This is because my user tests did not yield very useful information from this task.
 
-1. 1. You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.
+1. You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.
 
 2. You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.
 
 3. You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.
 
-4. You are going to visiting Ithaca for the weekend and plan to arrive on September 24th at around 3pm. Identify whether you will be able to attend the festival.
 
 
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 3: The user spends a few seconds looking at the navigation bar. User then says 'Go go things to buy I guess?'.
+User then takes a minute to read the sidebar. User says: 'I'm celiac, so I would call the AppleFest and ask if they have any food for me'. User then asks to scroll down. User asks to click on the Apple Cider Donuts. After the click doesn't navigate anywhere, user asks to keep scrolling. User then says 'Yeah I would call them.'
+
+Task 2: User asks to go to 'Things to Do' page.
+
+Task 1: User asks to go to the 'Directions and Parking' page. User asks to keep scrolling down. User then says 'Oh there. I would probably call or go to the office'.
 
 
 ### User 3 (Final Submission)
@@ -435,33 +440,62 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+This user is a parent of a student that currently goes to Cornell University. The mother is 51 years old and is currently not employed. User has been to Ithaca many times, but has never heard of or attended the Apple Festival before.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes, because the user plans to visit Ithaca next fall.
 
 
 ### User 3 (Final Submission)
 > Report the results of your user's test. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: TODO: copy task here
+**Task: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements.
+  - Since my user was able to quickly go to this page and did read the description, the user somewhat met my expectations for this task.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user had some hesitation before navigating to the 'Things to Buy' page, suggesting that at first, the user was not sure which page the information would be found on. Once the user navigated to this page. the user took a few seconds to read the sidebar description, and identified that they would contact the festival to find out of they offered celiac options. The user then tried to click on the food options, thinking that they might get more information about each item by clicking on the title of the food item.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Since the user took a few moments to decide which page to navigate to, this suggests that 'Things to Buy' might not be the most suitable title for this page. The fact that the user also tried to click on the food item also suggests that the user believed that there should be more information on each food item.
 - **Re-design choices**
-  - TODO
+  - In order to make the title of this page more appropriate for the content, I will rename this page to 'Items Sold'. I believe that this title might make it more obvious to users that the page contains information on all the items that are sold at the festival. since the user wanted more information on each food item, I will also include a short description of each item in the figure caption of the item.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-TODO...
+**Task: You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
+- **Did you evaluate the desktop or mobile design?**
+    -Mobile
+- **How did the user do? Did they meet your expectation?**
+  - For this task, I expected users to scroll to the bottom of whatever page they are on and find the phone number or email address, and state that they would call or email the festival. Therefore, the user somewhat met my expectations and performed the task reasonably well without too much trouble.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user immediately asked to navigate to the directions and parking page. The user did not encounter much trouble finding the contact information, however it was not very intuitive to the user that the information could be found in the footer of every page.
+- **Your reflections about the user’s performance to the task**
+  - Since the user first went to the directions and parking page to find contact information, and took a few moments to find the contact info at the bottom of the page, this indicates to me that the user
+  - **Re-design choices**
+    - TODO
+  - **Additional Notes**
+    - TODO: Justify your decisions; additional notes.
+
+
+
+- **Did you evaluate the desktop or mobile design?**
+    - Pick one: desktop/mobile
+- **How did the user do? Did they meet your expectation?**
+  - TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+      - TODO
+- **Your reflections about the user’s performance to the task**
+      - TODO
+- **Re-design choices**
+      - TODO
+- **Additional Notes**
+      - TODO: Justify your decisions; additional notes.
+
 
 
 ### User 4 - Testing Notes (Final Submission)
