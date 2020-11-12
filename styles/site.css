@@ -214,7 +214,7 @@ th {
 figure {
   align-self: auto;
   width: 265px;
-  height: 285px;
+  height: 330px;
   background-color: #e7e3d8;
   padding: 5px;
   text-align: center;}
@@ -223,10 +223,24 @@ figure img {
   width: 235px;
   height: 170px;
   border: 1px solid #d6d6d6;}
+
+figcaption h3 {
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 0px;
+  border: 0px;
+}
+
 figcaption {
   text-align: center;
-  font-weight: bold;
-  color: #02441c;}
+  font-size: 16px;
+  color: #02441c;
+  margin: 0px;
+  padding-top: 0px;
+  border: 0px;
+}
 
 img.left-align {
     float: left;
@@ -320,7 +334,6 @@ footer {
     padding-right: 35px;
   }
 }
-
 
 
 /* tablet version */

@@ -369,9 +369,9 @@ Yes, the user belongs to the audience because she is a Cornell student who eats 
   - **How did the user do? Did they meet your expectation?**
     - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements. Therefore, the user somewhat met my expectations  for this task.
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-     - While performing this task, the user did not encounter any difficulties or issues. To user was able to immediately identify where to find the information about her the food items sold at the festival, and identified that since she is vegan, there are a few food options for her to choose from at the festival.
+    - While performing this task, the user did not encounter any difficulties or issues. To user was able to immediately identify where to find the information about her the food items sold at the festival, and identified that since she is vegan, there are a few food options for her to choose from at the festival.
   - **Your reflections about the user’s performance to the task**
-      - I was mostly happy with the way that the user performed this task. However, as with the first user test, the user did not stop to read the information in the sidebar about what to do if none of the food items meet your dietary requirements. This was somewhat surprising to me, because on the mobile version this information is displayed at the top of the page.
+    - I was mostly happy with the way that the user performed this task. However, as with the first user test, the user did not stop to read the information in the sidebar about what to do if none of the food items meet your dietary requirements. This was somewhat surprising to me, because on the mobile version this information is displayed at the top of the page.
   - **Re-design choices**
     - As I mentioned upon reflecting on the other user interview, to encourage users to read the sidebar description, especially the part that tells users to contact the festival organisers if they have any dietary concerns, I will either make this part of the text bold or italisized so that it stands out to the user and they can easily see it. I will also make 'contact us' a link to the bottom of the page, so users can immediately click on this and find the contact information if they need to.
 
@@ -414,8 +414,6 @@ TODO
 ### User Testing Plan (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 > These should be the same tasks from round 1.
-I decided to replace Task 1 from the first round of testing to a new task. This is because my user tests did not yield very useful information from this task.
-
 1. You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.
 
 2. You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.
@@ -430,7 +428,7 @@ I decided to replace Task 1 from the first round of testing to a new task. This 
 Task 3: The user spends a few seconds looking at the navigation bar. User then says 'Go go things to buy I guess?'.
 User then takes a minute to read the sidebar. User says: 'I'm celiac, so I would call the AppleFest and ask if they have any food for me'. User then asks to scroll down. User asks to click on the Apple Cider Donuts. After the click doesn't navigate anywhere, user asks to keep scrolling. User then says 'Yeah I would call them.'
 
-Task 2: User asks to go to 'Things to Do' page.
+Task 2: User asks to go to 'Things to Do' page. User says: 'Saturday at 12pm.'
 
 Task 1: User asks to go to the 'Directions and Parking' page. User asks to keep scrolling down. User then says 'Oh there. I would probably call or go to the office'.
 
@@ -459,11 +457,11 @@ Yes, because the user plans to visit Ithaca next fall.
   - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements.
   - Since my user was able to quickly go to this page and did read the description, the user somewhat met my expectations for this task.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - The user had some hesitation before navigating to the 'Things to Buy' page, suggesting that at first, the user was not sure which page the information would be found on. Once the user navigated to this page. the user took a few seconds to read the sidebar description, and identified that they would contact the festival to find out of they offered celiac options. The user then tried to click on the food options, thinking that they might get more information about each item by clicking on the title of the food item.
+  - Once the user navigated to the 'Things to Buy' page. the user took a few seconds to read the sidebar description, and identified that they would contact the festival to find out of they offered celiac options. The user then tried to click on the food options, thinking that they might get more information about each item by clicking on the title of the food item.
 - **Your reflections about the user’s performance to the task**
-  - Since the user took a few moments to decide which page to navigate to, this suggests that 'Things to Buy' might not be the most suitable title for this page. The fact that the user also tried to click on the food item also suggests that the user believed that there should be more information on each food item.
+  - The fact that the user also tried to click on the food item also suggests that the user believed that there should be more information on each food item.
 - **Re-design choices**
-  - In order to make the title of this page more appropriate for the content, I will rename this page to 'Items Sold'. I believe that this title might make it more obvious to users that the page contains information on all the items that are sold at the festival. since the user wanted more information on each food item, I will also include a short description of each item in the figure caption of the item.
+  - In order to make the title of this page more appropriate for the content, I will rename this page to 'Items Sold'. I believe that this title might make it more obvious to users that the page contains information on all the items that are sold at the festival. Since the user wanted more information on each food item, I will also include a short description of each item in the figure caption of the item.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -475,33 +473,33 @@ Yes, because the user plans to visit Ithaca next fall.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
   - The user immediately asked to navigate to the directions and parking page. The user did not encounter much trouble finding the contact information, however it was not very intuitive to the user that the information could be found in the footer of every page.
 - **Your reflections about the user’s performance to the task**
-  - Since the user first went to the directions and parking page to find contact information, and took a few moments to find the contact info at the bottom of the page, this indicates to me that the user
-  - **Re-design choices**
-    - TODO
-  - **Additional Notes**
-    - TODO: Justify your decisions; additional notes.
-
+  - Since the user first went to the directions and parking page to find contact information, and took a few moments to find the contact info at the bottom of the page, this indicates to me that the user assumed that the information could be found on this page.
+- **Re-design choices**
+  - In order to make it easier for users to quickly find the contact info in an emergency, I will also include a 'Contact Us' button at the top of the 'Directions and Parking' page. I think this is eswpecially important for the mobile version, since users have to scroll quite a bit before then get the the contact info in the footer.
 
 
 - **Did you evaluate the desktop or mobile design?**
-    - Pick one: desktop/mobile
+  - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - For this task, I expected users to navigate to the 'Things to Do' page and identify that the band 'Rock Around' will be playing at Saturday at 12pm.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-      - TODO
+  - While performing this task, the user did not encounter any issues. The user immediately went to the 'Thigns to Do' page, and was able to quickly and efficiently identify the time that the band would be playing.
 - **Your reflections about the user’s performance to the task**
-      - TODO
+  - The ease and proficiency with which the user performed the task surprised me. This indicates to me that the design is intuitive, and that users know exactly where to find the information on the page. It also indicates that the new mobile design of the table, which has a different color for alternating rows, is easy to read.
 - **Re-design choices**
-      - TODO
-- **Additional Notes**
-      - TODO: Justify your decisions; additional notes.
+  - Since the user did not encounter any problems while performing this task, I will not make any re-design choices.
 
 
 
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1: User is on the home page. User says 'I would probably try to contact the festival. So click on Contact Us'. After clicking on the button, the user identifies that they would call the number
+
+Task 3: User says she is vegetarian. User takes a few moments to look at the navigation bar. Asks to click on 'Things to Buy' page with some hesitation. User takes a few secons to look at the items on the page, and says 'I guess the only thing I can eat is the Apple Cider Donuts right?'
+
+Task 2: User asks to go to the 'THings to Do' page. User identifies that the band plays on Saturday at 12pm.
+
 
 
 ### User 4 (Final Submission)
@@ -509,25 +507,52 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+User is a sophmore at Cornell studying computer science. Due to religious reasons, the user has been vegetarian for her whole life. The user has been to AppleFest once before.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes, because the user is a student at Cornell University who has a healthy diet.
 
 
 ### User 4 (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
+**Task 1: You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: Desktop
+- **How did the user do? Did they meet your expectation?**
+  - For this task, I expected users to scroll to the bottom of whatever page they are on and find the phone number or email address, and state that they would call or email the festival. Therefore, the user met my expectations and performed the task  well without encountering any  issues.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user immediately asked to scroll down on the home page, and quickly spotted the contact information at the botton of the page.
+- **Your reflections about the user’s performance to the task**
+  - Since the user met my expectations for this task and did not encounter any issues or problems, this indicates to me that the site is designed well to help the user perform this important task. Therefore, I will not make any re-design choices.
+- **Re-design choices**
+  - N/A
+
+
+**Task: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
+- **Did you evaluate the desktop or mobile design?**
+    - Pick one: Desktop
+- **How did the user do? Did they meet your expectation?**
+    - TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user took a few moments to try to figure out which page to find information about the foods offered at the festival. Once the user located the correct page, they were able to identify which food items they would be able to eat given their dietary requirements.
+- **Your reflections about the user’s performance to the task**
+  - The user had some hesitation before navigating to the 'Things to Buy' page, suggesting that at first, the user was not sure which page the information would be found on. This indicates to me that 'Things to Buy' is not an appropriate title for the page that shows descriptions of the food items and what dietary requirements they satisfy.
+- **Re-design choices**
+    - Since one of the main user needs for my audience is providing detailed information about the dietary requirements  of the food items sold at the festival, my first redesign choice is to renaim the 'Things to Buy' page to 'What to Eat'. I believe that this title will make it more obvious to users that the page will display foods sold at the festival, and indicate which diets the food items will satisfy.
+- **Additional Notes**
+  - Since I will be changing the title to 'What to Eat', I will also remove any items that are not food items from the page, and include a few more food items instead.
+
 Task: TODO: copy task here
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: Desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+    - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+    - TODO
 - **Your reflections about the user’s performance to the task**
   - TODO
 - **Re-design choices**
@@ -535,13 +560,13 @@ Task: TODO: copy task here
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-TODO...
-
 
 ### Changes Based on User Testing (Final Submission
 > What changes did you make to your design based on user testing?
 
-TODO
+1. The first change I made to my design was renaming the 'Things to Buy' page to 'What to Eat'. I made this change because the main goal of this page was to give users information about what foods satisfy what dietary requirements, and user testing indicated that it was not that obvious or intuitive to users from this previous title that this information would be on that page. Since I remaned the page to 'What to Eat', I also removed all non-food items from that page and added more foods instead.
+2. The second change I made was adding a 'Contact Us' button to the 'Directions and Parking' page. I did this because 2 of my user tests indicated that users believed that the contact info would be found on this page, and so to make it easier for them to find the information during emergencies, I added this button.
+3. The third change I made was adding a description to each of the food items on the 'Things to Buy' page. I made this change because my user testing indicated that users want/expected more information about each food item.
 
 
 ## Self-Reflection (Final Submission)
