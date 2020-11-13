@@ -498,7 +498,7 @@ Task 1: User is on the home page. User says 'I would probably try to contact the
 
 Task 3: User says she is vegetarian. User takes a few moments to look at the navigation bar. Asks to click on 'Things to Buy' page with some hesitation. User takes a few secons to look at the items on the page, and says 'I guess the only thing I can eat is the Apple Cider Donuts right?'
 
-Task 2: User asks to go to the 'THings to Do' page. User identifies that the band plays on Saturday at 12pm.
+Task 2: User asks to go to the 'Things to Do' page. User identifies that the band plays on Saturday at 12pm.
 
 
 
