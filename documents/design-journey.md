@@ -404,11 +404,22 @@ Yes, the user belongs to the audience because she is a Cornell student who eats 
 ### Finished Desktop & Mobile Website (Final Submission)
 > Include screenshots of both the desktop and mobile version of your site that you will be using for user testing.
 
+
 **Desktop Screenshots:**
-TODO
+![Home Desktop](homefinald.jpg)
+![Things to Do Desktop](todofinald.jpg)
+![Things to Buy Desktop](tobuyfinald.jpg)
+![Directions and Parking Desktop](directionsfinald.jpg)
+
 
 **Mobile Screenshots:**
-TODO
+![Home Mobile](homefinal.jpg)
+![Things to Do Mobile](todofinal.jpg)
+![Things to Buy Mobile](tobuyfinal.jpg)
+![Directions and Parking Mobile](directionsfinal.jpg)
+
+
+
 
 
 ### User Testing Plan (Final Submission)
@@ -428,7 +439,7 @@ TODO
 Task 3: The user spends a few seconds looking at the navigation bar. User then says 'Go go things to buy I guess?'.
 User then takes a minute to read the sidebar. User says: 'I'm celiac, so I would call the AppleFest and ask if they have any food for me'. User then asks to scroll down. User asks to click on the Apple Cider Donuts. After the click doesn't navigate anywhere, user asks to keep scrolling. User then says 'Yeah I would call them.'
 
-Task 2: User asks to go to 'Things to Do' page. User says: 'Saturday at 12pm.'
+Task 2: User immediately asks to go to 'Things to Do' page. User says: 'Saturday at 12pm.'
 
 Task 1: User asks to go to the 'Directions and Parking' page. User asks to keep scrolling down. User then says 'Oh there. I would probably call or go to the office'.
 
@@ -450,7 +461,7 @@ Yes, because the user plans to visit Ithaca next fall.
 ### User 3 (Final Submission)
 > Report the results of your user's test. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-**Task: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
+**Task 3: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
 - **Did you evaluate the desktop or mobile design?**
   - Mobile
 - **How did the user do? Did they meet your expectation?**
@@ -461,11 +472,9 @@ Yes, because the user plans to visit Ithaca next fall.
 - **Your reflections about the user’s performance to the task**
   - The fact that the user also tried to click on the food item also suggests that the user believed that there should be more information on each food item.
 - **Re-design choices**
-  - In order to make the title of this page more appropriate for the content, I will rename this page to 'Items Sold'. I believe that this title might make it more obvious to users that the page contains information on all the items that are sold at the festival. Since the user wanted more information on each food item, I will also include a short description of each item in the figure caption of the item.
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - Since the user wanted more information on each food item, I will also include a short description of each item in the figure caption of the item.
 
-**Task: You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
+**Task 1: You are at the Apple Festival and realise that you lost your bag. You want to find someone to contact so they can help you find your belongings.**
 - **Did you evaluate the desktop or mobile design?**
     -Mobile
 - **How did the user do? Did they meet your expectation?**
@@ -477,7 +486,7 @@ Yes, because the user plans to visit Ithaca next fall.
 - **Re-design choices**
   - In order to make it easier for users to quickly find the contact info in an emergency, I will also include a 'Contact Us' button at the top of the 'Directions and Parking' page. I think this is eswpecially important for the mobile version, since users have to scroll quite a bit before then get the the contact info in the footer.
 
-
+**Task 2:You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
@@ -498,7 +507,7 @@ Task 1: User is on the home page. User says 'I would probably try to contact the
 
 Task 3: User says she is vegetarian. User takes a few moments to look at the navigation bar. Asks to click on 'Things to Buy' page with some hesitation. User takes a few secons to look at the items on the page, and says 'I guess the only thing I can eat is the Apple Cider Donuts right?'
 
-Task 2: User asks to go to the 'Things to Do' page. User identifies that the band plays on Saturday at 12pm.
+Task 2: User asks to go to the 'Things to Do' page. User takes a few moments to look at the table. User identifies that the band plays on Saturday at 12pm.
 
 
 
@@ -532,33 +541,34 @@ Yes, because the user is a student at Cornell University who has a healthy diet.
   - N/A
 
 
-**Task: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
+**Task 3: You are deciding whether to attend the Apple Festival and want to find out whether the festival sells food that meets your dietary requirements.**
 - **Did you evaluate the desktop or mobile design?**
     - Pick one: Desktop
 - **How did the user do? Did they meet your expectation?**
-    - TODO
+  - For this task, I expected users to navigate to the 'Things to Buy page' and first read the description at the top of the page. I then expected users to look at each item on the page, and identify whether the items listed meet their dietary requirements. Therefore, the user somewhat met my expectations and performed the task reasonably well.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
   - The user took a few moments to try to figure out which page to find information about the foods offered at the festival. Once the user located the correct page, they were able to identify which food items they would be able to eat given their dietary requirements.
 - **Your reflections about the user’s performance to the task**
   - The user had some hesitation before navigating to the 'Things to Buy' page, suggesting that at first, the user was not sure which page the information would be found on. This indicates to me that 'Things to Buy' is not an appropriate title for the page that shows descriptions of the food items and what dietary requirements they satisfy.
 - **Re-design choices**
-    - Since one of the main user needs for my audience is providing detailed information about the dietary requirements  of the food items sold at the festival, my first redesign choice is to renaim the 'Things to Buy' page to 'What to Eat'. I believe that this title will make it more obvious to users that the page will display foods sold at the festival, and indicate which diets the food items will satisfy.
+  - Since one of the main user needs for my audience is providing detailed information about the dietary requirements  of the food items sold at the festival, my redesign choice is to renaim the 'Things to Buy' page to 'What to Eat'. I believe that this title will make it more obvious to users that the page will display foods sold at the festival, and indicate which diets the food items will satisfy.
 - **Additional Notes**
   - Since I will be changing the title to 'What to Eat', I will also remove any items that are not food items from the page, and include a few more food items instead.
 
-Task: TODO: copy task here
+
+**Task 2: You are at the Apple Festival and want to find out when your favorite band, 'Rock Around', is playing.**
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: Desktop
 - **How did the user do? Did they meet your expectation?**
-    - TODO
+  - For this task, I expected users to navigate to the 'Things to Do' page and immediately identify that the band 'Rock Around' will be playing at Saturday at 12pm. Therefore, the user mostly met my expectations for this task.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-    - TODO
+  - The user did not have any trouble navigating to the correct page and finding the table with the schedule of performances. However, the user did take a few moments to be able to find the band that was specified in the task.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Since the user wasn't able identify the time of the performance as quickly as I had expected, this indicates to me that the desktop version of the schedule of performances may not be as easy to read as I had thought.
 - **Re-design choices**
-  - TODO
+  - In order to make the table easier to read so that users can quickly find the band they are looking for, I will change the design of the table such that each row is a different color.
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - I previously made this change to the mobile version of the table after the first round of user testing. I decided not to make this change to the desktop version as I thought the table was easy enough to read on the wider screen. However, from this user test I now recognize that it can also be hard to navigate the table when all the cells are the same color.
 
 
 ### Changes Based on User Testing (Final Submission
@@ -566,15 +576,15 @@ Task: TODO: copy task here
 
 1. The first change I made to my design was renaming the 'Things to Buy' page to 'What to Eat'. I made this change because the main goal of this page was to give users information about what foods satisfy what dietary requirements, and user testing indicated that it was not that obvious or intuitive to users from this previous title that this information would be on that page. Since I remaned the page to 'What to Eat', I also removed all non-food items from that page and added more foods instead.
 2. The second change I made was adding a 'Contact Us' button to the 'Directions and Parking' page. I did this because 2 of my user tests indicated that users believed that the contact info would be found on this page, and so to make it easier for them to find the information during emergencies, I added this button.
-3. The third change I made was adding a description to each of the food items on the 'Things to Buy' page. I made this change because my user testing indicated that users want/expected more information about each food item.
+3. The third change I made was adding a description to each of the food items on the 'What to Eat' page. I made this change because my user testing indicated that users want/expected more information about each food item.
+4. The final change I made was to the desktop version of the schedule of performances table. More specifically, I made alternating rows of the table a light grey shade in order to make it easier for users to read the table and easily find  the pieces of information they need.
 
 
 ## Self-Reflection (Final Submission)
 > This was the first project in this class where you were able to follow a user-centered design process from start to finish. What did you learn from this experience?
 
-From this experience, I learned several things about website design. The first thing I learned is that what I think is best for the website isn't always what matches the users needs. For example, there were some changes I made
+From this experience, I learned several things about website design. The first thing I learned is that what I think is best for the website isn't always what matches the users needs. For example, I was surprised by how many re-design choices I had to make after the two rounds of user testing, because I initially thought my first design would perfectly match my users needs. Furthermore, I also learned how to devise and conduct user tests, something I have never previously done before. Throughout the process, I gained valuable skills in terms of how to properly conduct the tests and how to be responsive to users during and after the test as well. From the user tests, I also learned that is is normal and expected that the user will not meet your expectations for the task. I learned how to take the difficulties/issues that the user encountered and turn them into redesign choices, a skill that will be very valuable to me as I continue to build websites.
 
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-Having finally finished by second website, I do recognise that I have learned a lot about website design and HTML/CSS and I'm quite proud of what I have accomplished in such a short amount of time! Firstly, through this project I've realised how much faster and more efficient I am at coding in HTML and CSS. While in the first project it took me a lot more time to actually write the code, for this project, I found that I was able to write it in a much shorter amount of time. For this project, I also used much more advanced CSS than I did for my first website. For example, I used a lot more flexboxes and experimented with styling for each element a lot more than I did in the first project- and I think it paid off, because I am much happier and prouder of this website.
-While I know there is still a lot more to learn, I am proud of what I've been able to accomplish so far and can't wait to keep learning about website design and start on the next project!
+Having finally finished by second website, I do recognise that I have learned a lot about website design and HTML/CSS and I'm quite proud of what I have accomplished in such a short amount of time! Firstly, through this project I've realised how much faster and more efficient I am at coding in HTML and CSS. While in the first project it took me a lot more time to actually write the code, for this project, I found that I was able to write it in a much shorter amount of time. For this project, I also used much more advanced CSS than I did for my first website. For example, I used a lot more flexboxes and experimented with styling for each element a lot more than I did in the first project- and I think it paid off, because I am much happier and prouder of this final website. Finally, I learned how to make responsive design for different screen sizes, and I think I was able to successfully implement the skills I learned in my final website.While I know there is still a lot more to learn, I am proud of what I've been able to accomplish so far and can't wait to keep learning about website design and start on the next project!
